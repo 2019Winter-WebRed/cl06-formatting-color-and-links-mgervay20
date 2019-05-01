@@ -1,0 +1,75 @@
+/*
+* Moira Gervay
+* Topic 4 Classwork
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+body { background-color: orange
+
+} 
+    {
+    font-family: sans-serif
+}
+
+/*Header background color & alignmnent*/
+header {
+    background-color: lightpink
+}
+ header {
+    vertical-align: middle;
+}
+
+/*Main background color*/
+main {
+    background-color: white
+}
+
+/*Footer background color*/
+footer {
+    background-color: greenyellow
+}
+
+/*text color & font h1*/
+h1 {
+    color:navy
+}
+h1 {
+    font-family: cursive
+}
+
+/*text color & font h3*/
+h3 {
+    color:white
+}
+h3 {
+    font-family: sans-serif
+}
+
+/*text color & font <p>*/
+p {
+    font-family: sans-serif
+}
+p {
+    color: black
+}
+
+/*text color & font <ul>*/
+ul {
+    color: rebeccapurple
+}
+
+/*link color changes*/
+a:link {
+    color:darkred;
+    text-decoration: none;
+}
+a:hover {
+    color: green;
+}
